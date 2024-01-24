@@ -4,7 +4,7 @@
 ### 1.1.2.	Finne interessenter og potensielle konflikter
 ### 1.1.3.	Planlegge aspekter for implementering
 ### 1.1.4.	SWOT analyse
-## .2.	Modul 2 - Prosjektoppsett og skopbehandling
+## 1.2.	Modul 2 - Prosjektoppsett og skopbehandling
 ### 1.2.1.	Opprett Github prosjekt
 ### 1.2.2.	Prosjektoppsett
 ### 1.2.3.	Suksesskriterier
