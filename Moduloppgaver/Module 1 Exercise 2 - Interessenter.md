@@ -14,13 +14,12 @@
 
 | Mulige konflikter                                    | Mulige løsninger                                   |
 |------------------------------------------------------|----------------------------------------------------|
-| Plassproblemer, forskjellige grupper                 | Bestillingssystem der du reserverer en pult,       |  
+| Plassproblemer, forskjellige grupper <br>            | Bestillingssystem der du reserverer en pult, <br>  |
 | ønsker å bruke samme plass                           | tilgjengelig på telefon eller en nettjeneste       |
 |                                                      |                                                    |
-| Støynivå kan forstyrre arbeidet til personer/grupper | Støyreduserende øreplugger, regler/veiledning      |  
-| som foretrekker mer stille omgivelser                | som følger campusregler, anbefaling om å leie Kroa |  
-|                                                      | hvis støy er ønsket/nødvendig, desibelmåling.      |
+| Støynivå kan forstyrre arbeidet til <br>             | Støyreduserende øreplugger, regler/veiledning      |
+| personer/grupper <br>                                |                                                    |
+| som foretrekker mer stille omgivelser                | som følger campusregler, anbefaling om å leie <br> |
+|                                                      | Kroa hvis støy er ønsket/nødvendig, desibelmåling  |
 |                                                      |                                                    |
 | Hygieneproblemer på kjøkken og fellesområder/møterom | Personale fra campus og regler/veiledning          |
-
-
