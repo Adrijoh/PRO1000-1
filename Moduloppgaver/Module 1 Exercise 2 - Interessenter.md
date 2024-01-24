@@ -12,14 +12,8 @@
 | Arrangører         | Middels/lav | Lav         | Lav         |
 | Prosjektteam       | Høy         | Høy         | Høy         |
 
-| Mulige konflikter                                    | Mulige løsninger                                   |
-|------------------------------------------------------|----------------------------------------------------|
-| Plassproblemer, forskjellige grupper <br>            | Bestillingssystem der du reserverer en pult, <br>  |
-| ønsker å bruke samme plass                           | tilgjengelig på telefon eller en nettjeneste       |
-|                                                      |                                                    |
-| Støynivå kan forstyrre arbeidet til <br>             | Støyreduserende øreplugger, regler/veiledning      |
-| personer/grupper <br>                                |                                                    |
-| som foretrekker mer stille omgivelser                | som følger campusregler, anbefaling om å leie <br> |
-|                                                      | Kroa hvis støy er ønsket/nødvendig, desibelmåling  |
-|                                                      |                                                    |
-| Hygieneproblemer på kjøkken og fellesområder/møterom | Personale fra campus og regler/veiledning          |
+| Mulige konflikter                                                                          | Mulige løsninger                                                                                                                                      |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------
+|  Plassproblemer, forskjellige grupper ønsker å bruke samme plass                           | Bestillingssystem der du reserverer en pult tilgjengelig på telefon eller en nettjeneste                                                       |
+| Støynivå kan forstyrre arbeidet til personer/grupper som foretrekker mer stille omgivelser | Støyreduserende øreplugger, regler/veiledning som følger campusregler, anbefaling om å leie Kroa hvis støy er ønsket/nødvendig, desibelmåling. |
+| Hygieneproblemer på kjøkken og fellesområder/møterom                                       |  Personale fra campus og regler/veiledning                                                                                                     |
