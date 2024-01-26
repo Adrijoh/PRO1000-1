@@ -1,19 +1,20 @@
-Prosjektet for USNStart Coworking Space-nettstedet har som mål å lage en dynamisk og engasjerende nettside for coworking-plassen som ligger på USN Bø-campus. Nettstedet vil fungere som en informativ, brukervennlig og visuelt tiltalende plattform for å tiltrekke potensielle medlemmer, gi informasjon om coworking-plassen og legge til rette for bestilling av arbeidsplasser for medlemmer.
+# Introduksjon
+Dette er et prosjekt for et tenkt scenario kalt Capstone Project der USN vil bygge ut et kontorfellesskap som de vil leie ut, med formål å kultivere et knutepunkt for studententrepenører og profesjonelle som er ivrige på å jobbe i fellesskap med andre i stedet for alene på et hjemmekontor.
 
-De primære målene for prosjektet inkluderer:
+Vi har som mål å lage en dynamisk og engasjerende nettside for kontorfelleskapet som ligger på USN Bø-campus. Nettstedet vil fungere som en informativ, brukervennlig og visuelt tiltalende plattform for å tiltrekke potensielle medlemmer, gi informasjon om kontorfelleskapet og legge til rette for bestilling av arbeidsplasser for medlemmer.
 
-- Design og utvikling av et responsivt nettsted som er tilgjengelig på datamaskin, nettbrett og mobil.
-- Opprette visuelt tiltalende sider og innhold som formidler viktig informasjon om coworking-plassen, medlemskapstilbud og eksisterende leietakere.
-- Vise frem interiøret og fasilitetene til coworking-plassen gjennom bilder av høy kvalitet, videoer og visuelle elementer.
-- Implementere personvern- og sikkerhetstiltak for å beskytte brukerdata.
-- Gi klare og engasjerende overskrifter, overbevisende visuelle elementer og lett forståelige medlemskapstilbud og priser.
-- Fremheve de viktigste fasilitetene som er tilgjengelige på coworking-plassen, for eksempel høyhastighets internett, møterom, kaffelounge og mer.
-- Tydelig oppgi coworking-plassens beliggenhet, inkludert adresse, kart og informasjon om nærliggende offentlig transport eller parkeringsmuligheter.
-- Inkludere positive attester eller anmeldelser fra nåværende medlemmer for å bygge tillit og troverdighet.
-- Tilby flere kontaktalternativer, inkludert e-postadresse, telefonnummer og et kontaktskjema, slik at potensielle medlemmer kan komme i kontakt.
-- Gi en kort oversikt over coworking-plassens historie, mål og verdier for å fremheve dens unikehet og fellesskapsorienterte tilnærming.
-- Utvikle en gulvplan og vise frem de foreslåtte interiørdesignene for å gi potensielle medlemmer en idé om coworking-plassens oppsett og estetikk.
-- Implementere et arbeidsplassbestillingssystem som lar medlemmer med dagspass eller månedlig medlemskap reservere tilgjengelige arbeidsplasser i det åpne arbeidsområdet for gjeldende måned. Valg av arbeidsplass skal være interaktivt og visuelt på en gulvplan, og en bekreftelse skal vises etter at reservasjonen er gjort.
-- Gjennomføre brukervennlighetstester med studenter for å evaluere landingssiden og arbeidsplassbestillingsfunksjonen, og sikre at nettstedet oppfyller eller overgår deres forventninger.
-- Følge Agile praksis og demonstrere effektivt samarbeid gjennom hele prosjektets varighet.
+Prosjektet har som mål å karakterisere seg som et software utviklingsprosjekt, med tydelige mål, definert omfang og tidslinje, testing og brukerevaluering, og bruk av teknologiløsninger for å implementere nettsiden.
+
+# Overordnede mål:
+- Designe og utvikle et responsivt nettsted som er tilgjengelig på datamaskin, nettbrett og mobil.
 - Levere en høykvalitets prosjektrapport som tydelig dokumenterer prosjektmålene, brukerhistorier, designvalg, implementeringsdetaljer og evalueringresultater.
+- Utføre en oversiktlig og informativ prosjektfremføring som tydelig viser hele prosjektet i sin sammenheng.
+- Følge smidig metodikk og demonstrere effektivt samarbeid gjennom hele prosjektets varighet.
+
+# Tidsramme:
+Prosjektet varer fra tidlig Januar 2024 til slutten av April 2024.
+
+# Ressursfordeling og prioritering av oppgaver:
+Vi har minst ett oppdateringsmøte hver ukedag kalt en standup frem til prosjektet er over. Vi jobber ellers dynamisk når det er hensiktsmessig med tanke på at teamet er til stede og kan bidra, eller når oppgavene er fordelt og vi kan jobbe på egenhånd.
+
+I løpet av våren må vi gjøre prioriteringer om hvor ofte vi skal jobbe med faget, for hvor lenge, og hvilke arbeidsoppgaver hver enkelt skal prioritere for at vi skal oppnå et samspill som gjør at vi lærer mye, og leverer et godt arbeid, uten å slite oss ut eller nedprioritere andre fag.
