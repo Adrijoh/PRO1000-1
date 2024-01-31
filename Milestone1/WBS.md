@@ -26,7 +26,7 @@
 ## 1.5.	    Testing og godkjenning
 ### 1.5.1.	Analyse av tester
 ### 1.5.2.	Testplan
-### 1.5.3.  Lag god testdata
+### 1.5.3.  Testdata
 ### 1.5.4.  Implementer tester
 ### 1.5.5.  Resultatanalyse
 ### 1.5.6.  Testgodkjennelse
