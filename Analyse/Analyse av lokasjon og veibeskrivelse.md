@@ -14,3 +14,6 @@ Tekstbeskrivelse: Suppler kartet og bildene med en kort tekstbeskrivelse av hvor
 Kontaktinformasjon: Sørg for å inkludere kontaktinformasjon, som telefonnummer eller e-postadresse, slik at besøkende kan ta kontakt hvis de har spørsmål om veibeskrivelsen.
 
 Responsivt design: Sjekk at veibeskrivelsen og kartet er optimalisert for mobilvisning. Mange besøkende vil bruke mobilen til å finne veien, så det er viktig at informasjonen er tydelig og lett tilgjengelig på små skjermer.
+
+Anh Nguyen-Duc. (2023). PRO1000GPT 14.02.2024.
+https://pro1000.streamlit.app/.
