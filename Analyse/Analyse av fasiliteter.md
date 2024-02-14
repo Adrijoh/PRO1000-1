@@ -16,3 +16,5 @@ Bruk visuelle elementer: Bruk grafiske elementer som ikoner eller illustrasjoner
 
 Oppdater informasjonen: Sørg for å oppdatere informasjonen om fasilitetene jevnlig. Hvis det er endringer i tilbudet eller nye fasiliteter blir lagt til, må dette reflekteres på hjemmesiden for å sikre at besøkende har riktig og oppdatert informasjon.
 
+Anh Nguyen-Duc. (2023). PRO1000GPT 14.02.2024.
+https://pro1000.streamlit.app/
