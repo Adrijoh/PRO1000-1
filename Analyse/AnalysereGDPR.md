@@ -12,4 +12,4 @@ sjekk og gjennomgå alltid systemene for å sikre at de er sikre og oppfyller GP
 ha en personvernpolicy som forteller hvordan du tar vare på brukerdata.
 ## hold dataene sikre: 
 hold dataene trygge ved å kryptere dem eller ha kontroll over hvem som kan ha tilgang til dem.
-## Husk alltid å sørge for at alle i teamet forstår vet hvordan de skal håndtere og holde dataene trygge.
+## Husk alltid å sørge for at alle i teamet forstår hvordan de skal håndtere og holde dataene trygge.
