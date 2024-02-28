@@ -46,9 +46,9 @@ html, body {
 }
 
 .search {
-    width: 10.4vw;
-    height: calc(10.4vw / 1.6389);
-    position: absolute;
+    width: 10.38732394vw;
+    height: 11.25vh;
+    position: fixed; /* Endret til fixed for å ta hensyn til skjermstørrelsen */
     top: 6px;
     right: 6px;
     display: flex;
@@ -57,17 +57,19 @@ html, body {
 }
 
 .search img {
-    max-width: 100%;
-    max-height: 100%;
+    width: 100%; /* Sett bredden til 100% av forelderens bredde */
+    height: 80%; /* Sett høyden til 100% av forelderens høyde */
+    object-fit: cover; /* For å sikre at bildet dekker hele området uten å miste proporsjoner */
     border-radius: 5px;
 }
+
 
 .navbar {
     width: 31.690140845vw; /* Bredde basert på ønsket forhold til skjermstørrelsen */
     height: calc(31.690140845vw / 3.913043478); /* Høyde basert på ønsket forhold til bredden */
     background-color: #2c3030;
     position: absolute;
-    top: 66px; /* Endret til 66 piksler ned fra toppen */
+    top: calc(6px + 20.42253521vw / 2.2745 + 2.8125vh); /* Endret til 66 piksler ned fra toppen */
     left: 50%;
     transform: translateX(-50%);
     display: flex;
