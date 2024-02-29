@@ -59,7 +59,7 @@ html, body {
 
 .search img {
     width: 100%; /* Sett bredden til 100% av forelderens bredde */
-    height: 80%; /* Sett høyden til 100% av forelderens høyde */
+    height: 100%; /* Sett høyden til 100% av forelderens høyde */
     object-fit: cover; /* For å sikre at bildet dekker hele området uten å miste proporsjoner */
     border-radius: 5px;
 }
@@ -174,3 +174,8 @@ html, body {
     background-color: #dcdcdc;
     margin: 5px; /* Legg til ønsket margin mellom elementene */
 }
+
+@media screen and (max-width: 768px) {
+    
+}
+
