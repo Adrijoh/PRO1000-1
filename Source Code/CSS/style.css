@@ -64,7 +64,6 @@ html, body {
     border-radius: 5px;
 }
 
-
 .navbar {
     width: 31.690140845vw; /* Bredde basert på ønsket forhold til skjermstørrelsen */
     height: calc(31.690140845vw / 3.913043478); /* Høyde basert på ønsket forhold til bredden */
@@ -175,5 +174,3 @@ html, body {
     background-color: #dcdcdc;
     margin: 5px; /* Legg til ønsket margin mellom elementene */
 }
-
-
