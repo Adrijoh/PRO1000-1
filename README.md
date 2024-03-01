@@ -1,3 +1,5 @@
 # PRO1000-1
-PRO1000
-testing av github
+
+# Referanser
+
+Omtrent all kode i prosjektet er generert av ChatGPT 3.5. (OpenAI, 2024)
