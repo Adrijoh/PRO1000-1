@@ -4,6 +4,7 @@ html, body {
     justify-content: center;
     height: 100vh;
     margin: 0;
+    overflow: hidden; /* Forhindrer vertikal scrolling */
 }
 
 .logo {
@@ -58,11 +59,10 @@ html, body {
 
 .search img {
     width: 100%; /* Sett bredden til 100% av forelderens bredde */
-    height: 80%; /* Sett høyden til 100% av forelderens høyde */
+    height: 100%; /* Sett høyden til 100% av forelderens høyde */
     object-fit: cover; /* For å sikre at bildet dekker hele området uten å miste proporsjoner */
     border-radius: 5px;
 }
-
 
 .navbar {
     width: 31.690140845vw; /* Bredde basert på ønsket forhold til skjermstørrelsen */
@@ -86,3 +86,96 @@ html, body {
     object-fit: cover; /* For å sikre at bildet dekker hele området uten å miste proporsjoner */
     border-right: 2px solid white; /* Legger til en hvit grense mellom bildene */
 }
+
+.textbox {
+    width: 23.94366197vw; /* Bredde basert på ønsket forhold til skjermstørrelsen */
+    height: 23.94366197vw; /* Høyde basert på ønsket forhold til bredden */
+    background-color: #dcdcdc; /* Lett grå farge */
+    position: absolute;
+    top: calc(6px + 20.42253521vw / 2.2745 + 2.8125vh); /* Samme høyde som toppen av navbar */
+    left: 6px; /* Venstre siden av skjermen */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black; /* Tekstfarge */
+    font-size: 2.8125vw; /* Tekststørrelse basert på ønsket forhold til skjermstørrelsen */
+    text-align: center;
+}
+
+.picture-box-left {
+    width: 20.42253521vw;
+    height: 20.42253521vw;
+    background-color: #dcdcdc;
+    position: absolute;
+    top: calc(6px + 20.42253521vw / 2.2745 + 2.8125vh);
+    left: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 2.8125vw;
+    text-align: center;
+}
+
+.picture-box-right {
+    width: 23.94366197vw;
+    height: 23.94366197vw;
+    background-color: #dcdcdc;
+    position: absolute;
+    top: calc(6px + 20.42253521vw / 2.2745 + 2.8125vh);
+    right: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 2.8125vw;
+    text-align: center;
+}
+
+.picture-box-right .divider {
+    width: 2px; /* Endret bredden for å gjøre det vertikalt */
+    height: 100%; /* Endret høyden for å gjøre det vertikalt */
+    background-color: black;
+    margin: 0 auto; /* Sentrerer den vertikale streken horisontalt */
+}
+
+.flex-section {
+    width: calc(250 / 568 * 100vw);
+    height: calc(84 / 320 * 100vh);
+    display: flex;
+    flex-direction: column; /* Endret retningen til kolonne */
+    justify-content: flex-start; /* Justert fordeling for å starte fra toppen */
+    align-items: center;
+    position: absolute;
+    top: calc(6px + 20.42253521vw / 2.2745 + 2.8125vh + 23.94366197vw - (84 / 320 * 100vh)); /* Juster denne verdien basert på behov */
+}
+
+.section-title {
+    width: 100%;
+    height: 47.61904762%; /* Juster høyden etter behov */
+    background-color: #dcdcdc; /* Endret fargen til grå */
+    margin-bottom: 10px; /* Legg til ønsket avstand mellom tittelen og elementene nedenfor */
+}
+
+.section-items {
+    display: flex;
+    flex-wrap: wrap; /* Legg til wrap for å håndtere mindre skjermer */
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: calc(25 / 84 * 100%); /* Justert høyden i forhold til flex-section */
+}
+
+.section-item {
+    width: 20%; /* Juster bredden etter behov */
+    height: 100%; /* Endret høyden til ønsket størrelsesforhold */
+    background-color: #dcdcdc;
+    margin: 5px; /* Legg til ønsket margin mellom elementene */
+}
+
+@media screen and (max-width: 768px) {
+    
+}
+
