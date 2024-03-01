@@ -48,7 +48,6 @@ html, body {
     margin: 0;
 }
 
-/* Add the following styles to your CSS file */
 .search {
     width: 10.38732394vw;
     position: fixed;
@@ -56,7 +55,6 @@ html, body {
     right: 6px;
 }
 
-/* Modify the existing styles for the search-box in your CSS file */
 .search-box {
     background-color: #b8b8b8; /* Updated background color */
     display: flex;
