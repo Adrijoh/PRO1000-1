@@ -1,75 +1,76 @@
+<!--Mye av koden er generert av ChatGPT.-->
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Booking nettside</title>
+    <link rel="stylesheet" href="Source Code/CSS/Hjem.css">
     <link rel="stylesheet" href="Source Code/CSS/style.css">
+    <title>Min Responsive Nettside</title>
 </head>
-
 <body>
-
-    <div class="logo"></div>
-
-    <div class="title">
-        <h1>USNStart</h1>
-        <p>Kom og jobb med oss!</p>
-    </div>
-
-    <div class="search">
-        <img src="Source Code/Assets/Search.png">
-    </div>
-
-    <div class="navbar">
-        <img src="Source Code/Assets/HomeButton.png" class="nav-img" alt="Hjem">
-        <img src="Source Code/Assets/BookingButton.png" class="nav-img" alt="Booking">
-        <img src="Source Code/Assets/AboutUsButton.png" class="nav-img" alt="Om oss">
-        <img src="Source Code/Assets/ContactButton.png" class="nav-img" alt="Kontakt">
-    </div>
-
-    <div class="textbox">
-        <!-- Tekstinnhold kan legges til her -->
-    </div>
-
-    <div class="picture-box-left">
-    </div>
-    
-    <div class="picture-box-right">
-        <div class="divider"></div>
-    </div>
-
-    <div class="flex-section" style="top: 23.94366197vw;">
-        <div class="section-title"></div>
-        <div class="section-items">
-            <div class="section-item"></div>
-            <div class="section-item"></div>
-            <div class="section-item"></div>
-            <div class="section-item"></div>
+  <!-- Toppraden med tre elementer -->
+    <header>
+        <span class="logo">Logo</span>
+        <span class="title">Tittel</span>
+        <span class="search"><img src="Source Code/Assets/Search.png"></span>
+    </header>
+    <!-- Navigasjon, fire elementer -->
+    <nav>
+        <ul>
+            <li><a href="#"><img class="nav-item" src="Source Code/Assets/HomeButton.png"></a></li>
+            <li><a href="#"><img class="nav-item" src="Source Code/Assets/BookingButton.png"></a></li>
+            <li><a href="#"><img class="nav-item" src="Source Code/Assets/AboutUsButton.png"></a></li>
+            <li><a href="#"><img class="nav-item" src="Source Code/Assets/ContactButton.png"></a></li>
+        </ul>
+    </nav>
+    <!-- Hovedinnhold, to kvadrat, ett til venstre og ett til høyre -->
+    <main>
+        <div class="content">
+            <section class="content-box"></section>
+            <section class="content-box"></section>
         </div>
-    </div>
-
-    <div class="flex-section" style="top: 75vh; left: 6px;">
-        <div class="section-title"></div>
-        <div class="section-items">
-            <div class="section-item"></div>
-            <div class="section-item"></div>
-            <div class="section-item"></div>
-            <div class="section-item"></div>
+      
+        <!-- En kolonne med seksjoner, som hver består av en tittelboks og fire mindre bokser -->
+        <div class="sections">
+            <section class="section">
+                <div class="section-title"></div>
+                <div class="section-items">
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                </div>
+            </section>
+            <section class="section">
+                <div class="section-title"></div>
+                <div class="section-items">
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                </div>
+            </section>
+            <section class="section">
+                <div class="section-title"></div>
+                <div class="section-items">
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                </div>
+            </section>
+            <section class="section">
+                <div class="section-title"></div>
+                <div class="section-items">
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                    <div class="section-item"></div>
+                </div>
+            </section>
         </div>
-    </div>
-
-    <div class="flex-section" style="top: 75vh; right: 6px;">
-        <div class="section-title"></div>
-        <div class="section-items">
-            <div class="section-item"></div>
-            <div class="section-item"></div>
-            <div class="section-item"></div>
-            <div class="section-item"></div>
-        </div>
-    </div>
-
-</div>
-
+    </main>
 </body>
 </html>
