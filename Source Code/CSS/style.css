@@ -67,6 +67,27 @@ header {
     width: 100%
 }
 
+ul {
+    /* Fjern standardul-stil */
+    list-style: none;
+    list-style-type: none;  
+    padding: 0;
+    margin: 0;
+
+    /* Vis horisontal liste */
+    display: flex;
+    /* Plasser listeelementene sentralt på skjermen */
+    justify-content: center;
+    gap: 1rem;
+}
+
+.nav-item {
+    min-width: 45px;
+    width: 7.92253521127vw;
+    aspect-ratio: 1/1;
+    background-color: lightgrey;
+}
+
 /* For skjermer mindre enn 568px */
 @media (max-width: 570px) {
     header {
