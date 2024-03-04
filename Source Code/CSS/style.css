@@ -23,7 +23,7 @@ header {
     width: 100vw;
     height: 15.9375vh;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     margin-top: 12px;
     margin-bottom: 6px;
