@@ -66,106 +66,10 @@ header {
     width: 100%
 }
 
-ul {
-    /* Fjern standardul-stil */
-    list-style: none;
-    list-style-type: none;  
-    padding: 0;
-    margin: 0;
-
-    /* Vis horisontal liste */
-    display: flex;
-    /* Plasser listeelementene sentralt på skjermen */
-    justify-content: center;
-    gap: 1rem;
-}
-
-.nav-item {
-    min-width: 45px;
-    width: 7.92253521127vw;
-    aspect-ratio: 1/1;
-    background-color: lightgrey;
-}
-
-main {
-    width: 100%;
-}
-
-.content {
-    display: flex;
-    gap: 1rem;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-.content-box {
-    min-width: 150px;
-    min-height: 150px;
-    width: 26.4084507vw;
-    height: 26.4084507vw;
-    background-color: lightgrey;
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-    margin-bottom: 1rem;
-    margin-top: 1rem;
-}
-
-.sections {
-    width: 44.01408451vw;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    flex-wrap: nowrap;
-    gap: 1rem;
-    overflow-y: scroll;
-}
-
-.section {
-    width: 44.01408451vw;
-    height: calc(44.01408451vw / 2.976190476);
-    display: flex;
-    gap: 0.5rem;
-    flex-direction: column;
-    min-width: 250px;
-}
-
-.section-title {
-    width: 100%;
-    height: 47.61904762vh;
-    background-color: lightgrey;
-}
-
-.section-items {
-    width: 100%;
-    height: 29.76190476vh;
-    display: flex;
-    gap: 0.5rem;
-    justify-content: center;
-}
-
-.section-item {
-    width: 15.625vw;
-    height: calc(15.625vw / 2);
-    aspect-ratio: 1/1;
-    background-color: lightgrey;
-}
-
 /* For skjermer mindre enn 568px */
 @media (max-width: 570px) {
     header {
         height: 50px;
-    }
-    
-    .content {
-        justify-content: space-evenly;
-    }
-
-    .sections {
-        width: 78.125vw;
     }
 
     .logo {
@@ -178,8 +82,5 @@ main {
 @media (min-width: 570px) {
     header {
         height: calc(20.42253521vw / 2.274509804);
-    }
-    .sections {
-        margin-top: calc(-1rem + -26.4084507vw);
     }
 }
