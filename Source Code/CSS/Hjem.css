@@ -49,6 +49,10 @@ main {
     width: 100%;
     height: 47.61904762vh;
     background-color: lightgrey;
+    display: flex;
+    font-size: 4vw;
+    align-items: center;
+    justify-content: center;
 }
 
 .section-items {
@@ -62,8 +66,12 @@ main {
 .section-item {
     width: 15.625vw;
     height: calc(15.625vw / 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
     aspect-ratio: 1/1;
     background-color: lightgrey;
+    font-size: 1.8vw;
 }
 
 /* For skjermer mindre enn 568px */
