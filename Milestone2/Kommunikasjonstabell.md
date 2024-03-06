@@ -1,0 +1,6 @@
+| Kommunikasjonstype  | Målgruppe                  | Å gjøre                                                             | Hyppighet                                   | Møteform |
+|---------------------|----------------------------|---------------------------------------------------------------------|---------------------------------------------|----------| 
+| Standup møter       | Prosjekt team              | Rapportering om daglig arbeid, utfordringer og tilbakemeldinger     | 3 dager i uka                               | Zoom     |
+| Sprint planlegging  | Prosjekt team              | Planlegge sprint, oppgavefordeling                                  | 1 gang hver 3. uke                          | Zoom     |
+| Sprint oppsummering | Prosjekt team              | Oppsummere og evaluere sprinten                                     | 1 gang hver 3. uke                          | Zoom     |
+| Prosjektpresentasjon| Prosjekt team og foreleser | Presentere prosjektet                                               | 1. gang per sprint og slutten av prosjektet | Zoom     |
