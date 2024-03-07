@@ -1,0 +1,70 @@
+.about-section {
+    display: flex;
+    align-items: center; /* Sentrerer elementene vertikalt */
+    justify-content: space-between; /* Gir plass mellom elementene */
+    margin-bottom: 20px; /* Avstand mellom hver seksjon */
+}
+
+.about-section.reverse {
+    flex-direction: row-reverse; /* Bytter rekkefølgen på elementene for den andre seksjonen */
+}
+
+.about-image img, .about-first-textbox, .about-second-textbox, .about-last-textbox {
+    width: 46.875vw;
+    object-fit: cover;
+}
+
+.about-image img {
+    height: 19.37vh;
+}
+
+.about-first-textbox, .about-second-textbox {
+    height: 30.81vh;
+    overflow: auto;
+}
+
+.about-last-textbox {
+    height: 22.01vh;
+    overflow: auto;
+}
+
+.about-textbox {
+    border: 1px solid #ccc; /* Legger til en ramme */
+    padding: 20px; /* Litt plass inne i boksen */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Legger til skygge for dybde */
+    margin: 10px; /* Litt plass rundt boksene */
+    background-color: #fff; /* Hvit bakgrunn */
+    width: 46.875vw; /* Bredde justert til viewport width */
+    height: auto; /* Høyde justeres automatisk basert på innhold */
+    display: flex;
+    flex-direction: column;
+}
+
+.about-textbox h2 {
+    margin-top: 0;
+    color: #333; /* Mørk tekstfarge for overskriften */
+}
+
+textarea {
+    width: 100%; /* Fyller bredden av tekstboksen */
+    height: 100px; /* Fast høyde, juster etter behov */
+    border-color: #ccc; /* Lett kantlinje */
+    padding: 10px; /* Litt plass inne i tekstfeltet */
+    margin-top: 15px; /* Avstand mellom overskrift og tekstfelt */
+    box-sizing: border-box; /* Inkluderer padding og border i totalbredde/høyde */
+}
+
+.about-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.first-section, .third-section {
+    flex-direction: row;
+}
+
+/* Hvis .second-section eksplisitt hadde row-reverse, endre til dette */
+.second-section {
+    flex-direction: row; /* Endret til standard rekkefølge */
+}
