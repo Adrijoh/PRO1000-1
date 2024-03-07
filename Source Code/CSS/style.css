@@ -35,7 +35,7 @@ header {
     min-width: 40px;
     min-height: 40px;
     width: 7.042253521vw;
-    height: calc(7.042253521vw / 1); /* Høyden er basert på vidden */
+    height: calc(7.042253521vw / 1);
     background-color: lightgrey;
     border-radius: 50%;
     display: flex;
@@ -49,8 +49,8 @@ header {
 .title {
     min-width: 116px;
     min-height: 51px;
-    width: 20.42253521vw; /* Legg til denne egenskapen for å begrense bredden */
-    height: calc(20.42253521vw / 2.274509804); /* Høyden er basert på vidden */
+    width: 20.42253521vw;
+    height: calc(20.42253521vw / 2.274509804);
     background-color: lightgrey;
     border-radius: 50%;
     display: flex;
