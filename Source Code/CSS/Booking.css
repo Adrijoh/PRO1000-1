@@ -1,0 +1,56 @@
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.button-list, .right-side-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.list-button, .right-side-button {
+    width: 32.1875vw;
+    height: calc(32.1875vw / 3.32258064516);
+    background-color: lightgrey;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.text-box {
+    background-color: #f0f0f0;
+    padding: 10px;
+    overflow-y: auto;
+    width: 32.1875vw; 
+    border-radius: 20px;
+    margin-bottom: 10px; /* Redusert for å flytte boksen litt opp */
+}
+
+.new-text-box {
+    background-color: #f0f0f0;
+    padding: 10px;
+    overflow-y: auto;
+    width: 32.1875vw; 
+    height: 200px; /* Satt til å være lik høyden av bildeboksen */
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.image-box {
+    width: 32.1875vw;
+    height: 200px;
+    background-color: #ddd; 
+    background-image: url('../Assets/your-image.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    margin-bottom: 20px; 
+}
+
+.right-side-container {
+    flex-grow: 1;
+    justify-content: space-between;
+}

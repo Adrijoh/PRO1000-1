@@ -4,30 +4,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Booking nettside</title>
-    <link rel="stylesheet" href="Source Code/CSS/style.css">
+    <link rel="stylesheet" href="../CSS/Booking.css">
+    <link rel="stylesheet" href="../CSS/style.css">
+
+    <title>Min Responsive Nettside</title>
 </head>
-
 <body>
-
-    <div class="logo"></div>
-
-    <div class="title">
-        <h1>USNStart</h1>
-        <p>Kom og jobb med oss!</p>
-    </div>
-
-    <div class="search">
-        <img src="Source Code/Assets/Search.png">
-    </div>
-
-    <div class="navbar">
-        <img src="Source Code/Assets/HomeButton.png" class="nav-img" alt="Hjem">
-        <img src="Source Code/Assets/BookingButton.png" class="nav-img" alt="Booking">
-        <img src="Source Code/Assets/AboutUsButton.png" class="nav-img" alt="Om oss">
-        <img src="Source Code/Assets/ContactButton.png" class="nav-img" alt="Kontakt">
-    </div>
-
+    <header>
+        <span class="logo">Logo</span>
+        <span class="title">Tittel</span>
+        <span class="search"><img src="../Assets/Search.png"></span>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#"><img class="nav-item" src="../Assets/HomeButton.png"></a></li>
+            <li><a href="#"><img class="nav-item" src="../Assets/BookingButton.png"></a></li>
+            <li><a href="#"><img class="nav-item" src="../Assets/AboutUsButton.png"></a></li>
+            <li><a href="#"><img class="nav-item" src="../Assets/ContactButton.png"></a></li>
+        </ul>
+    </nav>
+    <main class="content-container">
+        <div class="button-list">
+            <button class="list-button">Dagspass</button>
+            <button class="list-button">Månedspass</button>
+            <button class="list-button">Studentpass</button>
+            <button class="list-button">Årspass</button>
+            <button class="list-button">Privat Kontor</button>
+            <div class="image-box"></div> <!-- Bildeboksen reintrodusert her -->
+        </div>
+        <div class="right-side-container">
+            <button class="right-side-button">Kalender</button>
+            <div class="text-box">Tekst om priser</div>
+            <div class="new-text-box">Kart over ledig plass</div> <!-- Tekstboksen forblir som den er -->
+        </div>
+    </main>
 </body>
 
 </html>
