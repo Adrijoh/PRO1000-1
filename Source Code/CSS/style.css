@@ -6,6 +6,7 @@ html {
     margin: 0;
     padding: 0;
     border: 0;
+    overflow-x: hidden;
 }
 
 body {
@@ -96,6 +97,23 @@ ul {
     width: 7.92253521127vw;
     aspect-ratio: 1/1;
     background-color: lightgrey;
+}
+
+main {
+    width: 100%;
+}
+
+footer {
+    background-color: #333; /* Bakgrunnsfarge for footer, endre etter behov */
+    color: #fff; /* Tekstfarge for footer, endre etter behov */
+    padding: 20px; /* Legg til mellomrom rundt footer-innholdet, endre etter behov */
+    width: 100vw;
+    height: 5vh;
+    margin-top: auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 /* For skjermer mindre enn 568px */
