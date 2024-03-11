@@ -71,8 +71,20 @@
     font-size: 1.8vw;
 }
 
-.footer button {
+/*CSS for footer på hjem siden*/
+#addresse {
     position: absolute;
+    left: 6px;
+}
+
+#veibeskrivelse {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#kart {
+    position: absolute; right: 6px;
 }
 
 /* For skjermer mindre enn 568px */
