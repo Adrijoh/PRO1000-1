@@ -1,0 +1,1 @@
+Vi har en tilbakemeldingsfunksjon, det kan være at vi ønsker å endre oppsett. Vi kan designe ulike løsninger og se hva vi liker best i neste omgang.

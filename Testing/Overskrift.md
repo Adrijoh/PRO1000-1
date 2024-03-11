@@ -1,0 +1,1 @@
+Vi ble enige om å fjerne ovalen som utgjør tittelen fra førsteutkast, og integrere den i logoen, som vi gjør om slik at vi kan skrive tittel og slagord i den. Så flytter vi navigasjonsbaren opp der tittelen pleide å være (inn i header).

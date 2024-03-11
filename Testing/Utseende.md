@@ -1,0 +1,1 @@
+Til å være et førsteutkast, så er det godkjent. Vi skal endre litt på utseende med tanke på responsitivitet og overskrift, men ellers så er det god struktur, og det er relativt ryddig med få forstyrrende elementer.
