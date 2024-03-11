@@ -1,12 +1,9 @@
 /*Mye av koden er generert av ChatGPT.*/
-main {
-    width: 100%;
-}
-
 .content {
     display: flex;
     gap: 1rem;
     justify-content: space-between;
+    flex-grow: 1;
     flex-wrap: wrap;
 }
 
@@ -72,6 +69,24 @@ main {
     aspect-ratio: 1/1;
     background-color: lightgrey;
     font-size: 1.8vw;
+}
+
+/*CSS for footer på hjem siden*/
+#addresse {
+    position: absolute;
+    left: 6px;
+}
+
+#veibeskrivelse {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#kart {
+    position: absolute; right: 6px;
+    width: 5vw;
+    height: 5vh;
 }
 
 /* For skjermer mindre enn 568px */
