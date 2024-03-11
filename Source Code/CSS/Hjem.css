@@ -85,6 +85,8 @@
 
 #kart {
     position: absolute; right: 6px;
+    width: 5vw;
+    height: 5vh;
 }
 
 /* For skjermer mindre enn 568px */
