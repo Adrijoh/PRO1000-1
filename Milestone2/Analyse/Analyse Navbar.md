@@ -7,10 +7,10 @@ Lag et logisk hierarki, organiser navigasjonen og grupper lignende elementer sam
  Naviger jevnlig på alle sider eller skjermer. Bruk den samme stilen på alle knapper, menyer og lenker.
 
 ## Simple å forstå: 
-Sørg for at knappene og etikettene dine er forståelige og forklarende, og bruk et språk som alle kan forstå. Ikke bruk sjargong eller uklare ord. Bruk beskrivende etiketter som "Kjøp nå" eller "Les mer" for eksempel i stedet for "Klikk her".
+Sørg for at knappene og etikettene dine er forståelige og forklarende, og bruk et språk som alle kan forstå. Ikke bruk sjargong eller uklare ord. Bruk beskrivende etiketter som "kjøp nå" eller "Les mer" for eksempel i stedet for "Klikk her".
 
 ## Lesevennlig: 
- Sørg for at navigeringen er enkel å forstå. Velg skrifttyper som er lesbare og som gir nok kontrast mellom tekst og bakgrunnsfarger. Dette gjør nettstedet eller appen din lett tilgjengelig for alle, inkludert synshemninger.
+ Sørg for at navigeringen er enkel å forstå. Velg skrifttyper som er lesbare. Dette gjør nettstedet eller appen din lett tilgjengelig for alle, inkludert synshemninger.
 
 ## Etikettbeskrivelser:
  Selv om ikoner kan være nyttige, bør de ikke være din eneste navigasjonsmetode. For å lette navigeringen, legg til beskrivende tekst ved siden av ikonene. Dette sikrer at brukerne vet hvor hver lenke eller knapp tar dem.
