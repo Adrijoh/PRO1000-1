@@ -3,9 +3,9 @@ Koden er generert av ChatGPT. */
 
 /*Legg inn søk data her*/
 var manualSearchData = [
-    { title: "Bli medlem/priser/reservasjon", text: "Booking, medlem, priser, kontor", link: "Source Code/HTML/Booking.html" },
+    { title: "Bli medlem/priser/reservasjon", text: "Booking, medlem, priser, kontor, plass", link: "Source Code/HTML/Booking.html" },
     { title: "Informasjon om oss", text: "Hvem, info, verdier, historie, misjon", link: "Source Code/HTML/AboutUs.html" },
-    { title: "Kontakt oss", text: "Hvor, kart, finn", link: "Source Code/HTML/Kontakt.html" },
+    { title: "Kontakt oss", text: "epost, tlf, telefon, melding, ansatt, USNStart", link: "Source Code/HTML/Kontakt.html" },
 ];
 
 var basePath = "";
