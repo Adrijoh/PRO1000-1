@@ -63,20 +63,43 @@ header {
     transform: translateX(-50%);
 }
 
-.search {
-    min-width: 59px;
-    min-height: 36px;
-    width: 10.38732394vw;
-    height: calc(10.38732394vw / 1.638888889);
-    margin-right: 6px;
+.search-container {
+    width: 45vw;
+    height: calc(45vw / 6.857142857);
+
+    border-radius: 10%;
 
     position: absolute;
     right: 6px;
 }
 
-.search img {
-    width: 100%
+.search-container input {
+    position: absolute;
+    bottom: 0;
+    width: 85%;
+    height: 100%;
+    background-color: lightgrey;
+    font-size: 3vw; 
 }
+
+.search-container img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 15%;
+    height: 100%;
+}
+
+#search-results {
+    background-color: lightgray;
+    position: absolute;
+    top: 100%; /* Plasser søkeresultatene rett under søkeinndataene */
+    left: 0; /* Plasser søkeresultatene helt til venstre */
+    width: 100%; /* Bredden skal være lik bredden til søkeinndataene */
+    z-index: 1000; /* Sørg for at søkeresultatene ligger over andre elementer */
+    font-size: 3vw; 
+}
+
 
 ul {
     /* Fjern standardul-stil */

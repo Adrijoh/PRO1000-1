@@ -7,15 +7,18 @@
         <link rel="stylesheet" href="../CSS/kontakt.css">
         <link rel="stylesheet" href="../CSS/style.css">
 
-        <title>Kontakt Oss</title>
+        <title>USNStart - Kontakt oss</title>
     </head>
 
     <body>
 
         <header>
             <span class="logo">Logo</span>
-            <span class="title">Tittel</span>
-            <span class="search"><img src="../Assets/Search.png"></span>
+            <div class="search-container">
+                <input id="search-input" type="search" placeholder="Søk..">
+                <img src="../Assets/Søk.png">
+                <div id="search-results"></div>
+            </div>
         </header>
 
         <nav>
@@ -57,5 +60,5 @@
 
 
     </body>
-
+    <script src="../JS/search.js"></script>
 </html>
