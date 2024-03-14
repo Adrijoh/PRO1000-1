@@ -1,0 +1,135 @@
+/*OpenAI. (2024). ChatGPT 03.03.2024. https://chat.openai.com.
+Strukturen er laget av ChatGPT, innholdet er endret på i etterkant.*/
+
+html {
+    /* Fjern standardstil */
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    width: 100%;
+    margin: 0;
+    min-width: 320px;
+    overflow-y: hidden;
+}
+  
+header {
+    width: 100vw;
+    height: 15.9375vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    margin-left: 12px;
+}
+
+.logo {
+    min-width: 40px;
+    min-height: 40px;
+    width: 7.042253521vw;
+    height: calc(7.042253521vw / 1);
+    background-color: lightgrey;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    left: 6px;
+}
+
+.title {
+    min-width: 116px;
+    min-height: 51px;
+    width: 20.42253521vw;
+    height: calc(20.42253521vw / 2.274509804);
+    background-color: lightgrey;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.search {
+    min-width: 59px;
+    min-height: 36px;
+    width: 10.38732394vw;
+    height: calc(10.38732394vw / 1.638888889);
+    margin-right: 6px;
+
+    position: absolute;
+    right: 6px;
+}
+
+.search img {
+    width: 100%
+}
+
+ul {
+    /* Fjern standardul-stil */
+    list-style: none;
+    list-style-type: none;  
+    padding: 0;
+    margin: 0;
+
+    /* Vis horisontal liste */
+    display: flex;
+    /* Plasser listeelementene sentralt på skjermen */
+    justify-content: center;
+    gap: 1rem;
+}
+
+.nav-item {
+    min-width: 45px;
+    width: 7.92253521127vw;
+    aspect-ratio: 1/1;
+    background-color: lightgrey;
+}
+
+main {
+    width: 100%;
+}
+
+footer {
+    background-color: #333; /* Bakgrunnsfarge for footer, endre etter behov */
+    color: #fff; /* Tekstfarge for footer, endre etter behov */
+    width: 100vw;
+    height: 5vh;
+    margin-top: auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* For skjermer mindre enn 568px */
+@media (max-width: 570px) {
+    header {
+        height: 50px;
+    }
+
+    .logo {
+        width: 12.5vw;
+        height: 12.5vw;
+    }
+}
+
+/* For større skjermer */
+@media (min-width: 570px) {
+    header {
+        height: calc(20.42253521vw / 2.274509804);
+    }
+}
