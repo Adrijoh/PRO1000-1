@@ -8,14 +8,17 @@ Strukturen er laget av ChatGPT, innholdet er endret på i etterkant.-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Source Code/CSS/Hjem.css">
     <link rel="stylesheet" href="Source Code/CSS/style.css">
-    <title>Min Responsive Nettside</title>
+    <title>USNStart - Hjem</title>
 </head>
 <body>
-  <!-- Toppraden med tre elementer -->
+    <!-- Toppraden med to elementer -->
     <header>
         <span class="logo">Logo</span>
-        <span class="title">Tittel</span>
-        <span class="search"><img src="Source Code/Assets/Search.png"></span>
+        <div class="search-container">
+            <input id="search-input" type="search" placeholder="Søk..">
+            <img src="Source Code/Assets/Søk.png">
+            <div id="search-results"></div>
+        </div>
     </header>
     <!-- Navigasjon, fire elementer -->
     <nav>
@@ -61,4 +64,6 @@ Strukturen er laget av ChatGPT, innholdet er endret på i etterkant.-->
         <button id="kart">Kart</button>
     </footer>
 </body>
+
+<script src="Source Code/JS/search.js"></script>
 </html>

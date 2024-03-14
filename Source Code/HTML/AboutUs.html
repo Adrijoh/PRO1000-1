@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us</title>
+    <title>USNStart - Om oss</title>
     <link rel="stylesheet" href="../CSS/AboutUs.css">
     <link rel="stylesheet" href="../CSS/Hjem.css">
     <link rel="stylesheet" href="../CSS/style.css">
@@ -11,8 +11,11 @@
 <body>
     <header>
         <span class="logo">Logo</span>
-        <span class="title">Tittel</span>
-        <span class="search"><img src="../Assets/Search.png"></span>
+        <div class="search-container">
+            <input id="search-input" type="search" placeholder="Søk..">
+            <img src="../Assets/Søk.png">
+            <div id="search-results"></div>
+        </div>
     </header>
     
     <nav>
@@ -75,4 +78,5 @@ Vi tror at ved å tilby et inspirerende og støttende miljø, kan vi hjelpe vår
         Ditt footer-innhold her
     </footer>
 </body>
+<script src="../JS/search.js"></script>
 </html>
