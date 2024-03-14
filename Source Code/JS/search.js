@@ -6,7 +6,6 @@ var manualSearchData = [
     { title: "Bli medlem/priser/reservasjon", text: "Booking, medlem, priser, kontor", link: "Source Code/HTML/Booking.html" },
     { title: "Informasjon om oss", text: "Hvem, info, verdier, historie, misjon", link: "Source Code/HTML/AboutUs.html" },
     { title: "Kontakt oss", text: "Hvor, kart, finn", link: "Source Code/HTML/Kontakt.html" },
-    { title: "Finn frem", text: "Finn, veibeskrivelse", link: "index.html" },
 ];
 
 var basePath = "";
@@ -27,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (searchTerm === "") {
             searchResults.style.display = "none";
         } else searchResults.style.display = "block";
-        
+
         var filteredResults = performSearch(searchTerm);
 
         displayResults(filteredResults);
@@ -36,7 +35,6 @@ document.addEventListener("DOMContentLoaded", function() {
     function performSearch(term) {
         var results = [];
 
-        // Søk gjennom manuelt definerte titler og tekster
         manualSearchData.forEach(function(item) {
             if (item.title.toLowerCase().includes(term) || item.text.toLowerCase().includes(term)) {
                 results.push({ title: item.title, link: item.link });
