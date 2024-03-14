@@ -1,9 +1,5 @@
 # Analyse booking funksjonalitet
 
-## Forstå brukernes krav:
-Det er viktig å forstå målbrukernes unike ønsker og behov før du begynner å designe. Bruk spørreundersøkelser, intervjuer eller spørreundersøkelser for å finne smertepunkter, preferanser og forventninger knyttet til bestillinger eller reservasjoner.
-
-
 ## Forbedret brukeropplevelse:
 Design en enkel måte å håndtere bestillinger på. Bryt ned prosessen i klare trinn, for eksempel å velge datoer og tid, velge tjenester og informasjon, og deretter bekrefte bestillingen.
 
