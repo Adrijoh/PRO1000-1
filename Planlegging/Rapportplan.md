@@ -4,10 +4,6 @@
 
 ## Når skal vi være ferdige: 18. April
 
-## Innhold:
-
-Abstrakt
-
 ## Arbeidsfordeling: 
 
 Shaima:
