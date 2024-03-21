@@ -24,6 +24,5 @@
 ### 1.4.3.	Rapport
 ### 1.4.4.	Godkjennelse av arbeid
 ## 1.5.     Overlevering
-### 1.5.1.  	Prosjektrapport m/nettside
-### 1.5.2.  	Fremføring
-
+### 1.5.1.  	Fremføring
+### 1.5.2.  	Prosjektrapport m/nettside
