@@ -17,7 +17,7 @@
 ### 1.3.3.      Wix oppsett og design
 ### 1.3.4.	Oppdatere WBS og Gantt chart
 ### 1.3.5.      Rapport
-### 1.3.6.      Testplan og brukbarhetstesting
+### 1.3.6.      Testplan og testing
 ## 1.4.	    Sprint 3
 ### 1.4.1.  	Planlegging
 ### 1.4.2.	Wix design
