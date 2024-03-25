@@ -20,7 +20,7 @@ Prosjektteam vil utføre en rekke tester delt opp i følgende kategorier:
 
 Testing av nettsiden vil foregå ved deling av link til nettsiden, samt deling av QR kode til mobil. All testing vil foregå i den nettleser og mobil som tester har og føler seg komfortabel med å bruke, for å simulere ekte bruk av nettsiden så godt som mulig.
 
-##Viktige datoer
+## Viktige datoer
 
 25.03.2024: Testplanlegging.
 27.03.2024: Testing utføres og testskjemaer fylles ut.
