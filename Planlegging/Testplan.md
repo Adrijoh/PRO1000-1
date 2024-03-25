@@ -15,7 +15,6 @@ Prosjektteam vil utføre en rekke tester delt opp i følgende kategorier:
 
 - Funksjonelle tester: Noen av brukerhistoriene har med funksjonalitet å gjøre, og vi må sørge for at de fungerer slik vi har tenkt.
 - Ikke-funksjonelle tester: Her snakker vi om brukerhistoriene som har å gjøre med utseende, design, universell utforming og plassering av informasjon.
-- Brukervennlighet testing: Her oppretter vi noen tester utenom brukerhistoriene for å se på for eksempel hvor enkelt det er å navigere, hvor behagelig det er å bruke nettsiden, og om UX designvalg kan gjenkjennes.
 
 ## Testmiljø
 
@@ -24,7 +23,8 @@ Testing av nettsiden vil foregå ved deling av link til nettsiden, samt deling a
 ##Viktige datoer
 
 25.03.2024: Testplanlegging.
-28.03.2024: Testing utføres og testskjemaer fylles ut.
+27.03.2024: Testing utføres og testskjemaer fylles ut.
+28.03.2024: Testing utføres og testskjemaet fylles ut.
 03.04.2024: Basert på resultater skal forbedringer planlegges i starten av sprint 3.
 10.04.2024: Forbedringer basert på resultater skal være ferdige.
 18.04.2024: En fullstendig testrapport skal være ferdigsttilt.
